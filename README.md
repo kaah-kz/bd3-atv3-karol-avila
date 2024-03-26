@@ -1,2 +1,2 @@
-# bd3-atv3-karol-avila
-Atividade de Banco de Dados 3
+# atv2_bd3_karol_avila
+Atividade 02 de banco de dados 3.
